@@ -2,7 +2,7 @@
 
 ![Project Preview](preview.gif)
 
-Welcome to Project XEON! This is a fullstack React application built with Tailwind CSS and Vite for rapid development.
+Welcome! This is a fullstack React application built with Tailwind CSS and Vite for rapid development.
 
 ## Features
 
